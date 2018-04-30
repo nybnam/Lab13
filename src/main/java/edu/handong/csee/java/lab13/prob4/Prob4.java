@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Prob4 {
 	public void feed(Pet pet) {
-		System.out.println("feed: " + pet.food());
+		System.out.println("feed: " + pet.food()); // print food
 	}
 	
 	public static void main(String[] args) {
